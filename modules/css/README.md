@@ -12,7 +12,7 @@ Get familiar with the basics of CSS:
 1. You need to study sections from 9 to 21 of the course **["HTML И CSS — ОСНОВЫ ВЕБ-ПРОГРАММИРОВАНИЯ"](https://codebra.ru/ru/courses/html-css-base)**
 
 ## Practice
-#####Task 1. Create the page layout which should be like the main page of instagram (desktop version):
+*Task 1.* Create the page layout which should be like the main page of instagram (desktop version):
 - Requirements:
   * Cross-browser layout with support for the latest versions of Chrome, Firefox, Edge.
   * The layout should adapt to the screen size (as it work on the desktop version)
