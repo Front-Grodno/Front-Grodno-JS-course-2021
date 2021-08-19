@@ -11,13 +11,16 @@ Get familiar with the basics of HTML:
 1. You need to study sections from 1 to 8 of the course **["HTML И CSS — ОСНОВЫ ВЕБ-ПРОГРАММИРОВАНИЯ"](https://codebra.ru/ru/courses/html-css-base)**
 
 ## Practice
-#####Task 1. Create an HTML file with following list: 
+*Task 1.* Create an HTML file with following list: 
 ![list_example.png](assets/list_example.png)
-#####Task 2. Create an HTML file with following table:
+
+*Task 2.* Create an HTML file with following table:
 ![table_example.png](assets/table_example.png)
-#####Task 3. Create an HTML file with following form:
+
+*Task 3.* Create an HTML file with following form:
 ![form_example.png](assets/form_example.png)
-#####Task 4. Create an HTML file with an embedded YouTube video using an iframe.
+
+*Task 4.* Create an HTML file with an embedded YouTube video using an iframe.
 
 ## Control questions
 1. Hypertext. HTML language. HTML standards. The structure of the HTML document.
