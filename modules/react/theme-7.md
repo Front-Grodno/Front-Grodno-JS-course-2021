@@ -1,5 +1,10 @@
 # Routing
 
+## Materilas
+[React-Router training](https://reactrouter.com/web/guides/quick-start)
+
+https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app
+
 ## Task 7
 1. Create routing for your application (via [React Router](https://www.npmjs.com/package/react-router)).
 2. Add [404](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802243) (error page) and [No movies found](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802248) page.

@@ -1,5 +1,9 @@
 # Redux
 
+## Materials
+[Redux documentation](https://redux.js.org/tutorials/indexhttps://redux.js.org/tutorials/index)
+
+
 ## Task 5
 1. Go through API docs in `swagger`: [http://localhost:4000/api-docs](http://localhost:4000/api-docs).
 2. Make your components perform real `AJAX` requests.

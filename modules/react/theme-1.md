@@ -1,5 +1,11 @@
 # Core concepts
 
+## Materials
+### React documentation:
+- [Hello World](https://reactjs.org/docs/hello-world.html)
+- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+
 ## Task 1
 
 1. Create a repository. 
@@ -8,4 +14,4 @@
 4. Install all required extensions ([react developer tools](npmjs.com/package/react-devtools), etc.)
 5. Render blank message (Hello World) with `React`.
 
-To implement this task you could use react online `sandbox` (optional), or start to configure basic project build from `task 2`. Commit sandbox link to your repository
+To implement this task you could use react online `sandbox` (optional), or start to configure basic project build from `task 2`. Commit sandbox link to your repository.
