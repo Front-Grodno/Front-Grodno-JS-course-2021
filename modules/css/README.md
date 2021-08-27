@@ -18,7 +18,6 @@ Get familiar with the basics of CSS:
       c. Selectors.
       d. How is specificity calculated.
       e. Which CSS properties can be inherited.
-      f. What is the difference between a pseudo-class and a pseudo-element.
     2. Text styles
       a. How we can add styles to text.
       b. What units do you know in CSS.
@@ -34,7 +33,9 @@ Get familiar with the basics of CSS:
 *Task:* Add styles to your prepared HTML CV page from previous module:
 - Requirements:
   * Cross-browser layout with support for the latest versions of Chrome, Firefox, Edge.
-  * The layout should adapt to the screen size (as it work on the desktop version)
+  * The layout should adapt to the screen size (by usage flexbox-layout or CSSGrid)
+  * Use your own avatar
+  * Would be good if you use animation in your CV
   
 
 - Note the following:
