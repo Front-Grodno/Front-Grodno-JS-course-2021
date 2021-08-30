@@ -31,8 +31,8 @@ To start `localMoviesAPIservice`, you should:
 Design is available via [InVision prototype](https://projects.invisionapp.com/share/F9VXQ7IMZGY#/screens/406802250). There’s no need to implement pixel perfect responsive design. Design can be implemented schematically.
 
 ## Additional materials
-- `Codecademy` [React](https://www.codecademy.com/learn/react-101) course
+- Codecademy [React](https://www.codecademy.com/learn/react-101) course
 - Курс ["React JS - путь самурая"](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
-- `FreeCodeCamp` [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) and [Redux](https://www.freecodecamp.org/learn/front-end-libraries/redux/) courses
+- FreeCodeCamp [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) and [Redux](https://www.freecodecamp.org/learn/front-end-libraries/redux/) courses
 - Курс [Learn React](https://scrimba.com/learn/learnreact)
 - Мастер класс по `React` и `Redux`

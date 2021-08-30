@@ -15,3 +15,8 @@
 5. Render blank message (Hello World) with `React`.
 
 To implement this task you could use react online `sandbox` (optional), or start to configure basic project build from `task 2`. Commit sandbox link to your repository.
+
+## Control Questions
+1. What is React?
+2. What is JSX?
+3. Can web browsers read `JSX` directly?

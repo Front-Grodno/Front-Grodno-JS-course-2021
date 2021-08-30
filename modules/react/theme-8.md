@@ -14,5 +14,11 @@
 3. Cover all `reducers` and their `actions` with `unit-tests`.
 4. Measure coverage level with coverage report.
 
+## Control questions
+1. What is `Shallow Renderer` in React testing?
+2. What is `TestRenderer package` in React?
+3. What is the purpose of `ReactTestUtils` package?
+4. What is `Jest`?
+
 ## Task 9
 Prepare presentation of your project.
