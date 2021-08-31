@@ -24,16 +24,16 @@ Get familiar with the basics of HTML:
         c. HTML tables.
     3. Media
         a. Images in HTML.
-        b. What new added since HTML5.
+        b. What new added since HTML5?
     4. Structure of HTML document
         a. Links in HTML.
         b. Meta-tag HTML.
         c. Block and inline elements.
     5. Semantic layout
-        a. What is it.
+        a. What is it?
         b. Describe few semantic elements.
     6. Forms in HTML
-        a. How we can use forms.
+        a. How we can use forms?
         b. Elements of form.
         c. Submit form.
         
@@ -44,7 +44,7 @@ Get familiar with the basics of HTML:
   
 CV should be on English and should include:
 1. First name and Last Name
-2. Contacts
+2. Contacts, Photo
 3. Short info about you (your goal and priorities, highlight your strengths, tell us about your work experience, if there is no work experience, tell us about your aspiration and ability to learn quickly and learn new things)
 4. Skills (programming languages, frameworks, methodologies, version control systems, and development tools that you own)
 5. Code examples
