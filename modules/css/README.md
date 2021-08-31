@@ -13,21 +13,22 @@ Get familiar with the basics of CSS:
 
     Topics with questions:
     1. CSS basics
-      a. Cascading Style Sheets what is it.
+      a. Cascading Style Sheets what is it?
       b. Classes.
       c. Selectors.
-      d. How is specificity calculated.
-      e. Which CSS properties can be inherited.
+      d. How is specificity calculated?
+      e. Which CSS properties can be inherited?
     2. Text styles
-      a. How we can add styles to text.
-      b. What units do you know in CSS.
+      a. How we can add styles to text?
+      b. What units do you know in CSS?
+      c. CSS Animations.
     3. Block elements
-      a. What is it CSS layout.
-      b. What is the difference between a pseudo-class and a pseudo-element.
-      c. How does float work.
-      d. How many positions in CSS do you know? What's the difference.
-      e. What is Flexbox, how to use it.
-      f. What is Responsive Web Design and why do you need it.
+      a. What is it CSS layout?
+      b. What is the difference between a pseudo-class and a pseudo-element?
+      c. How does float work?
+      d. How many positions in CSS do you know? What's the difference?
+      e. What is Flexbox, how to use it?
+      f. What is Responsive Web Design and why do you need it?
 
 ## Practice
 *Task:* Add styles to your prepared HTML CV page from previous module:
