@@ -26,7 +26,7 @@
       alert( `number ${i}!` );
     }
     ```
-1. Write a loop which prompts for a number greater than __100__. If the visitor enters another number – ask them to input again.
+1. Write a loop which prompts for a number greater than __100__. If the visitor enters another number – ask them to input again.The loop must ask for a number until either the visitor enters a number greater than 100 or cancels the input/enters an empty line.
 1. Write a function __min(a,b)__ which returns the least of two numbers a and b:
     ```javascript
     min(2, 5) == 2
@@ -43,10 +43,6 @@
         }
     }
     ```
-The loop must ask for a number until either the visitor enters a number greater than 100 or cancels the input/enters an empty line.
-
-Here we can assume that the visitor only inputs numbers. There’s no need to implement a special handling for a non-numeric input in this task.
-Create two variants: the first one using NOT !, the second one – without it.
 ----------
 ### Topic 2: Advanced working with JavaScript functions
 ##### Materials:
