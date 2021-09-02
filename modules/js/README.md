@@ -1,12 +1,12 @@
 # JavaScript
 ##### In the current module we should get familiar with the JavaScript language
 ## Topics:
-1. Fundamentals of JavaScript language
-1. Advanced working with JavaScript functions
-1. Objects, Classes, Inheritance, Prototypes in JavaScript
-1. Asynchronous JavaScript
-1. Events in JavaScript
-1. Handling Errors, Debugging, Profiling in JavaScript
+1. [Fundamentals of JavaScript language](#topic-1-fundamentals-of-javascript-language)
+1. [Advanced working with JavaScript functions](#topic-2-advanced-working-with-javascript-functions)
+1. [Objects, Classes, Inheritance, Prototypes in JavaScript](#topic-3-objects-classes-inheritance-prototypes-in-javascript)
+1. [Asynchronous JavaScript](#topic-4-asynchronous-javascript)
+1. [Events in JavaScript](#topic-5-events-in-javascript)
+1. [Handling Errors, Debugging, Profiling in JavaScript](#topic-6-handling-errors-debugging-profiling-in-javascript)
 ----------
 ### Topic 1: Fundamentals of JavaScript language
 ##### Materials:
