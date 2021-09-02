@@ -7,6 +7,7 @@
 1. [Asynchronous JavaScript](#topic-4-asynchronous-javascript)
 1. [Events in JavaScript](#topic-5-events-in-javascript)
 1. [Handling Errors, Debugging, Profiling in JavaScript](#topic-6-handling-errors-debugging-profiling-in-javascript)
+1. [Additional materials to learn](#additional-materials)
 ----------
 ### Topic 1: Fundamentals of JavaScript language
 ##### Materials:
