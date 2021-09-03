@@ -8,8 +8,8 @@ Get familiar with the basics of HTML:
 - Work with forms (HTML only)
 
 ## Theory
-  You need to pass interactive course https://ru.code-basics.com/languages/html 
-  
+  You need to pass interactive course https://ru.code-basics.com/languages/html
+
     Topics with questions:
     1. HTML basics
         a. Hypertext.
@@ -36,12 +36,11 @@ Get familiar with the basics of HTML:
         a. How we can use forms?
         b. Elements of form.
         c. Submit form.
-        
 
 
 ## Practice
 *Task.* Create an HTML file with your own CV. A CV or resume is a document that a job seeker provides to a potential employer when nominating for an open vacancy.
-  
+
 CV should be on English and should include:
 1. First name and Last Name
 2. Contacts, Photo
@@ -51,7 +50,6 @@ CV should be on English and should include:
 6. Experience
 7. Education (including courses, seminars, lectures, online training)
 8. English (level and courses)
- 
 
 ## Additional materials
 1. sections from 1 to 8 (without subscription) of the course ["HTML И CSS — ОСНОВЫ ВЕБ-ПРОГРАММИРОВАНИЯ"](https://codebra.ru/ru/courses/html-css-base)
