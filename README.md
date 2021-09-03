@@ -69,7 +69,6 @@ We do not have a deadline for the course. You can complete the course at the spe
 
 ## JavaScrip:
 - [The Modern JavaScript Tutorial](https://javascript.info/)
--------
 # Our Main modules:
 1. [HTML Basics](https://github.com/Front-Grodno/Front-Grodno-JS-course-2021/tree/master/modules/html)
 1. [CSS Basics](https://github.com/Front-Grodno/Front-Grodno-JS-course-2021/tree/master/modules/css)
@@ -77,8 +76,8 @@ We do not have a deadline for the course. You can complete the course at the spe
 
 # How to deal with tasks in our course:
 Create 3 repository at [github.com](https://github.com/) and push each task in a separate commit
-    1. HTML/CSS
-    1. JS
-    1. React
+1. HTML/CSS
+1. JS
+1. React
 ![image info](assets/git_example.png)
 
