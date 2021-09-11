@@ -9,16 +9,16 @@
 ## Task 5
 1. Go through API docs in `swagger`: [http://localhost:4000/api-docs](http://localhost:4000/api-docs).
 2. Make your components perform real `AJAX` requests.
-3. Implement data fetches as `async actions` and pass data to your components with `redux`.
-4. Implement creating, editing and updating films as `redux actions`.
-5. Implement filtering and sorting (by genre, rating, and release date) as `redux actions`.
+3. Implement data fetches as `async actions` and pass data to your components with `Redux`.
+4. Implement creating, editing and updating films as `Redux actions`.
+5. Implement filtering and sorting (by genre, rating, and release date) as `Redux actions`.
 
 ## Control questions
 1. What is `Redux`?
 2. What are the three principles that `Redux` follows?
 3. List down the components of `Redux`.
 4. How to set initial state in `Redux`?
-5. What are `Redux selectors` and Why to use them?
+5. What are `Redux selectors` and why use them?
 6. What is an `action` in `Redux`?
 7. What are `reducers` in `Redux`?
 8. How to make `AJAX` request in `Redux`?

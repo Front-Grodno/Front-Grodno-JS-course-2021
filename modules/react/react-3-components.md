@@ -7,7 +7,7 @@
 - [Handling Events](https://reactjs.org/docs/handling-events.html)
 - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 - [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
-- [Error boundaries](https://reactjs.org/docs/error-boundaries.html)
+- [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
 
 **Advanced (optional)**
 
@@ -24,7 +24,7 @@
 ## Task 3.1
 1. Implement `HTML` markup for required design for [Home](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802250) page (Only UI part) with all necessary components and apply styles for it. 
 2. Use `<ErrorBoundary>` component for catching and displaying errors. You could create one component and wrap all your application or use several components.
-3. For this part, no need to implement API calls and routing, the task can be done with mocked data.
+3. For this part, **no need to implement API calls and routing, the task can be done with mocked data**.
 
 ## Task 3.2
 1. Implement markup and styles for [Add movie](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802247), [Edit](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802252), [Delete](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802251) modal windows and `Sorting` on [Home](https://projects.invisionapp.com/share/F9VXQ7IMZGY/#/screens/406802250) page.
@@ -45,7 +45,7 @@
 11.  What are the different phases of `React` component’s lifecycle?
 12. Explain the `lifecycle methods` of `React` components in detail.
 13. What are `synthetic events` in `React`?
-14. How do you create an event in `React`?
+14. How do you create an `event` in `React`?
 15. How to pass a parameter to an `event handler` or `callback`?
 16. What is `key` prop and what is the benefit of using it in arrays of elements?
 17. How to bind methods or event handlers in `JSX` callbacks?
@@ -61,4 +61,4 @@
 26. What is `context`?
 27. What are `portals` in `React`?
 28. How to apply validation on props in `React`?
-29. Name a few techniques to optimize `React` app performance.
+29. Name a few techniques to optimize `React` app `performance`.

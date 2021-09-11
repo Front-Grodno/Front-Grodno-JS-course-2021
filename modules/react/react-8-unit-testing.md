@@ -15,7 +15,8 @@
 4. Measure coverage level with coverage report.
 
 ## Control questions
-1. What is `Shallow Renderer` in React testing?
-2. What is `TestRenderer package` in React?
-3. What is the purpose of `ReactTestUtils` package?
+1. What is `Shallow rendering` in React testing?
+2. What are the advantages of using `TestRenderer` in React testing?
+3. What is the `ReactTestUtils` package for?
 4. What is `Jest`?
+5. What does `mocking` mean?
