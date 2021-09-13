@@ -37,7 +37,9 @@ Create 3 repositories and open for each task a separate pull request
 1. HTML/CSS
 1. JS
 1. React
-![image info](assets/git_example.png)
+
+Example:
+![Git Repositories Example](assets/git_example.png)
 
 ## To complete this course you need:
 1. Complete all home tasks given in the modules. Tasks should be verified by a mentor.
