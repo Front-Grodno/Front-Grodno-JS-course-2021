@@ -7,6 +7,7 @@ Our training focuses on current __JavaScript__ approaches, technologies and tool
 __The aim of the course__ - is to gain knowledge and experience in the field of web development, sufficient for employment to any leading IT company, such as __EPAM__.
 
 ## You will learn:
+1. [Introduction](https://github.com/Front-Grodno/Front-Grodno-JS-course-2021/tree/master/modules/introduction)
 1. [HTML Basics](https://github.com/Front-Grodno/Front-Grodno-JS-course-2021/tree/master/modules/html)
 1. [CSS Basics](https://github.com/Front-Grodno/Front-Grodno-JS-course-2021/tree/master/modules/css)
 1. [JS Basics](https://github.com/Front-Grodno/Front-Grodno-JS-course-2021/tree/master/modules/js)
