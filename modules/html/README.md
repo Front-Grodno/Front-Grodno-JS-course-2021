@@ -51,6 +51,16 @@ CV should be on English and should include:
 7. Education (including courses, seminars, lectures, online training)
 8. English (level and courses)
 
+Technical requirements for CV:
+1. Use semantic tags
+2. Use [HTML validator](https://validator.w3.org/) to validate HTML
+3. Use [GitHub Pages](https://pages.github.com/) for deploy
+
+CV examples (please use as an example, do not copy)
+![CV Example](../../assets/CV-1.png)
+![CV Example](../../assets/CV-2.png)
+![CV Example](../../assets/CV-3.png)
+
 ## Additional materials
 1. sections from 1 to 8 (without subscription) of the course ["HTML И CSS — ОСНОВЫ ВЕБ-ПРОГРАММИРОВАНИЯ"](https://codebra.ru/ru/courses/html-css-base)
 2. https://webref.ru/course/html-basics
