@@ -33,15 +33,6 @@ We do not have a deadline for the course. You can complete the course at the spe
 - [English Self-Study Materials](https://training.by/#!/News/203)
 - [English for adults: solving most frequent issues](https://training.by/#!/News/180)
 
-## How to deal with tasks in our course:
-Create 3 repositories and open for each task a separate pull request
-1. HTML/CSS
-1. JS
-1. React
-
-Example:
-![Git Repositories Example](assets/git_example.png)
-
 ## To complete this course you need:
 1. Complete all home tasks given in the modules. Tasks should be verified by a mentor.
 1. Prepare a self-presentation based on the CV that you’ll be implementing in this course (preparation of a speach in English is a big plus).
