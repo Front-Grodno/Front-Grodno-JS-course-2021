@@ -1,5 +1,5 @@
 # JavaScript
-##### In the current module we should get familiar with the JavaScript language
+##### In the current module we will learn the JavaScript language
 ## Topics:
 1. [Fundamentals of JavaScript language](#topic-1-fundamentals-of-javascript-language)
 1. [Advanced working with JavaScript functions](#topic-2-advanced-working-with-javascript-functions)
@@ -121,7 +121,7 @@ __Note:__ "input format" to *.fullName* will be __firstName + space + lastName__
 1. [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
 1. [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 ##### Tasks:
-1. Create a __Vector__ object that supports addition, subtraction, dot products, and norms. So, for example. If you try to add, subtract, or dot two vectors with different lengths, you must throw an error. 
+1. Create a __Vector__ object that supports addition, subtraction, dot products, and norms. So, for example. If you try to add, subtract, or dot two vectors with different lengths, you must throw an error.
 __Also provide:__ a *toString* method, so that using the vectors from above, *a.toString()	===	'(1,2,3)'* an equals method, to check that two vectors that have the same components are equal.
     ```javascript
     var a = new Vector([1, 2, 3]);

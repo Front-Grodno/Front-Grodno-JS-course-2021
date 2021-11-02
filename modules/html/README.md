@@ -1,5 +1,5 @@
 # HTML Basics
-## In the current module we should:
+## In the current module we will learn:
 Get familiar with the basics of HTML:
 - Syntax
 - Text elements (paragraphs, links, lists, tables)

@@ -1,5 +1,5 @@
-# CSS Basic 
-## In the current module we should:
+# CSS Basic
+## In the current module we will learn:
 Get familiar with the basics of CSS:
 - Attaching CSS
 - Selectors (specificity, cascading, inheritance)
@@ -38,13 +38,13 @@ Get familiar with the basics of CSS:
   * Use attributes (class, id, tag name) for specify html element which you want to style (<h1, h2, article> and etc.)
   * Use your own avatar
   * Would be good if you use animation in your CV
-  
+
 
 - Note the following:
   * Code formatting
   * Semantic tags
   * Names for selectors
-  
+
 ## Additional materials
 1. sections from 9 to 21 (without subscription) of the course ["HTML И CSS — ОСНОВЫ ВЕБ-ПРОГРАММИРОВАНИЯ"](https://codebra.ru/ru/courses/html-css-base)
 2. https://webref.ru/course/css-basics

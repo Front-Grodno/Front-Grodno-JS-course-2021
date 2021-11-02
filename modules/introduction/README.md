@@ -8,7 +8,7 @@ To complete the course you will have to create 3 public repositories on GitHub:
 ![Git Repositories Example](/assets/git_example.png)
 
 ### Github course workflow
-1. Create a new repository on your GitHub account 
+1. Create a new repository on your GitHub account
 2. Create a new task branch within the repository and switch to it
 3. Complete your task
 4. Commit and push your task solution
